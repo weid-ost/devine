@@ -1,0 +1,8 @@
+{
+  "creators": [
+    {"name": "Helbig, Nora", "affiliation": "Eastern Switzerland University of Applied Sciences", "orcid": "0000-0002-8663-7306"},
+    {"name": "Hammer, Florian", "affiliation": "Eastern Switzerland University of Applied Sciences"}
+  ],
+  "title": "DEVINE",
+  "description": "Enhanced PyTorch implementation of DEVINE (Le Toumelin et al., 2023), a deep-learning wind downscaling model for mountainous terrain, extended with wind direction-dependent input features and rotational data augmentation.",
+}
