@@ -1,0 +1,14 @@
+id: devine-low-scatter
+
+description: "Devine model with lower absolute validation errors but larger bias than devine-low-bias.
+              Based on a 5 degree augmented dataset with 3 features/channels (deflLis, reldem, ydsc).\n
+              -> Use this model in case per-sample accuracy is important.\n"
+
+channels: 3
+activation: ReLU
+loss: MSELoss
+
+checkpoint: model.pt
+normalisation: norm.json
+
+status: production

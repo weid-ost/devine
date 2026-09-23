@@ -1,0 +1,13 @@
+id: devine-low-bias
+description: "Devine model with low validation bias.
+              Based on a 10 degree augmented dataset with 3 features/channels (deflLis, reldem, ydsc).\n
+              -> Use this model for aggregate statistics and metrics.\n"
+
+channels: 3
+activation: ReLU
+loss: MSELoss
+
+checkpoint: model.pt
+normalisation: norm.json
+
+status: production

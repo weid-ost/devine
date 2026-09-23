@@ -1,0 +1,9 @@
+[project]
+name = "devine_test"
+environment = "dev"
+
+[app]
+model = "devine-low-scatter"
+output_dir = "tests/data"
+output_name = "test_flowfield"
+
