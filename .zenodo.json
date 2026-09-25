@@ -4,5 +4,5 @@
     {"name": "Hammer, Florian", "affiliation": "Eastern Switzerland University of Applied Sciences"}
   ],
   "title": "DEVINE",
-  "description": "Enhanced PyTorch implementation of DEVINE (Le Toumelin et al., 2023), a deep-learning wind downscaling model for mountainous terrain, extended with wind direction-dependent input features and rotational data augmentation.",
+  "description": "Enhanced PyTorch implementation of DEVINE (Le Toumelin et al., 2023), a deep-learning wind downscaling model for mountainous terrain, extended with wind direction-dependent input features and rotational data augmentation."
 }
